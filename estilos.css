@@ -7,6 +7,9 @@ header {
         color:black;
         font: bold 20px sans-serif;
 }
+.contenido {
+    background: red;
+}
 /* h1 {
 	background:green;
 } */
